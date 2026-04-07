@@ -1,0 +1,12 @@
+- [Modelo de negocio](project_modelo_negocio.md) — Web demo IA + suscripción + outbound para micro-PYMEs hispanas/inglesas
+- [TAM por mercado](project_tam_mercados.md) — Sizing España, LATAM, US, UK, Canadá con % sin web y TAM anual
+- [Competidores y pricing](project_competidores_pricing.md) — Pricing DIY (Wix, GoDaddy) vs DFY (Yell, Thryv), cuota de mercado
+- [ICP y nichos](project_icp_nichos.md) — Sectores prioritarios, brecha digital por sector, nicho arranque por mercado
+- [Unit economics](project_unit_economics.md) — Costes por web, LTV, escalabilidad, pricing por mercado, upsells
+- [Ventas outbound](project_ventas_outbound.md) — Funnel, scripts cold call, ratios comercial, comisiones, playbook
+- [Legal y compliance](project_legal_compliance.md) — Regulación outbound ES/UK/US, red comercial, WhatsApp API, riesgos
+- [Expansión y ayudas](project_expansion_ayudas.md) — Kit Digital, Sercotec, orden de entrada, plan 90 días, métricas
+- [Riesgos y oportunidades](project_riesgos_criticos.md) — 5 riesgos críticos, mitigaciones, líneas negocio alto margen
+- [España profundo](project_espana_profundo.md) — INE DIRCE 2025, TIC Q1 2025, funnel detallado, economía comercial, legal B2B, post-Kit Digital
+- [Reconciliación datos](project_reconciliacion_datos.md) — Discrepancias entre docs y conclusiones reconciliadas (ratios, LTV, pricing, comisiones)
+- [Commits sin marca de agua](feedback_commits.md) — Commits técnicos, sin Co-Authored-By ni referencias a IA
