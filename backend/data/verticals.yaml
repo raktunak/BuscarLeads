@@ -1,0 +1,110 @@
+verticals:
+  - slug: dental_clinic
+    display_name:
+      es: "Clínicas Dentales"
+      en: "Dental Clinics"
+    search_terms:
+      es: ["clínica dental", "dentista", "odontólogo", "ortodoncia"]
+      en: ["dental clinic", "dentist", "orthodontist"]
+    cnae_codes: ["8623"]
+    estimated_no_web_pct: "45"
+    icon: "🦷"
+
+  - slug: construction_renovation
+    display_name:
+      es: "Reformas y Construcción"
+      en: "Construction & Renovation"
+    search_terms:
+      es: ["reformas", "empresa de reformas", "construcción", "albañilería", "obras"]
+      en: ["renovation", "construction", "builder", "home improvement"]
+    cnae_codes: ["4121", "4122", "4211", "4312", "4321", "4322", "4329", "4331", "4332", "4333", "4334", "4339"]
+    estimated_no_web_pct: "70"
+    icon: "🏗️"
+
+  - slug: lawyers
+    display_name:
+      es: "Abogados y Gestorías"
+      en: "Lawyers & Legal Services"
+    search_terms:
+      es: ["abogado", "bufete de abogados", "gestoría", "asesoría legal", "despacho de abogados"]
+      en: ["lawyer", "law firm", "solicitor", "legal services", "attorney"]
+    cnae_codes: ["6910"]
+    estimated_no_web_pct: "40"
+    icon: "⚖️"
+
+  - slug: beauty_aesthetics
+    display_name:
+      es: "Estética y Belleza"
+      en: "Beauty & Aesthetics"
+    search_terms:
+      es: ["centro de estética", "peluquería", "salón de belleza", "barbería", "uñas"]
+      en: ["beauty salon", "hair salon", "barber", "aesthetics", "nail salon"]
+    cnae_codes: ["9602"]
+    estimated_no_web_pct: "60"
+    icon: "💅"
+
+  - slug: physiotherapy
+    display_name:
+      es: "Fisioterapia"
+      en: "Physiotherapy"
+    search_terms:
+      es: ["fisioterapia", "fisioterapeuta", "clínica de fisioterapia", "rehabilitación"]
+      en: ["physiotherapy", "physiotherapist", "physical therapy", "rehabilitation"]
+    cnae_codes: ["8690"]
+    estimated_no_web_pct: "60"
+    icon: "💪"
+
+  - slug: restaurant
+    display_name:
+      es: "Restaurantes"
+      en: "Restaurants"
+    search_terms:
+      es: ["restaurante", "bar restaurante", "comida", "asador"]
+      en: ["restaurant", "dining", "eatery"]
+    cnae_codes: ["5610"]
+    estimated_no_web_pct: "55"
+    icon: "🍽️"
+
+  - slug: plumbing
+    display_name:
+      es: "Fontanería"
+      en: "Plumbing"
+    search_terms:
+      es: ["fontanero", "fontanería", "instalaciones de fontanería"]
+      en: ["plumber", "plumbing", "plumbing services"]
+    cnae_codes: ["4322"]
+    estimated_no_web_pct: "75"
+    icon: "🔧"
+
+  - slug: electrician
+    display_name:
+      es: "Electricistas"
+      en: "Electricians"
+    search_terms:
+      es: ["electricista", "instalaciones eléctricas", "electricidad"]
+      en: ["electrician", "electrical services"]
+    cnae_codes: ["4321"]
+    estimated_no_web_pct: "70"
+    icon: "⚡"
+
+  - slug: veterinary
+    display_name:
+      es: "Veterinarios"
+      en: "Veterinary"
+    search_terms:
+      es: ["veterinario", "clínica veterinaria", "hospital veterinario"]
+      en: ["vet", "veterinary clinic", "animal hospital"]
+    cnae_codes: ["7500"]
+    estimated_no_web_pct: "35"
+    icon: "🐾"
+
+  - slug: auto_repair
+    display_name:
+      es: "Talleres Mecánicos"
+      en: "Auto Repair"
+    search_terms:
+      es: ["taller mecánico", "taller de coches", "mecánico", "automoción"]
+      en: ["auto repair", "mechanic", "car repair", "garage"]
+    cnae_codes: ["4520"]
+    estimated_no_web_pct: "65"
+    icon: "🔩"

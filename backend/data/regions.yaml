@@ -1,0 +1,186 @@
+regions:
+  # === ESPAÑA - Principales ciudades ===
+  - name: "Madrid"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 40.4168
+    center_lng: -3.7038
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "3300000"
+
+  - name: "Barcelona"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 41.3874
+    center_lng: 2.1686
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "1600000"
+
+  - name: "Valencia"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 39.4699
+    center_lng: -0.3763
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "800000"
+
+  - name: "Sevilla"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 37.3891
+    center_lng: -5.9845
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "690000"
+
+  - name: "Málaga"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 36.7213
+    center_lng: -4.4217
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "580000"
+
+  - name: "Zaragoza"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 41.6488
+    center_lng: -0.8891
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "680000"
+
+  - name: "Bilbao"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 43.2630
+    center_lng: -2.9350
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "350000"
+
+  - name: "Alicante"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 38.3452
+    center_lng: -0.4810
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "330000"
+
+  - name: "Murcia"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 37.9922
+    center_lng: -1.1307
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "460000"
+
+  - name: "Palma de Mallorca"
+    country_code: "ES"
+    region_type: "city"
+    center_lat: 39.5696
+    center_lng: 2.6502
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "420000"
+
+  # === ESPAÑA - País completo ===
+  - name: "España"
+    country_code: "ES"
+    region_type: "country"
+    center_lat: 40.4637
+    center_lng: -3.7492
+    timezone: "Europe/Madrid"
+    language: "es"
+    population: "47000000"
+
+  # === REINO UNIDO ===
+  - name: "London"
+    country_code: "GB"
+    region_type: "city"
+    center_lat: 51.5074
+    center_lng: -0.1278
+    timezone: "Europe/London"
+    language: "en"
+    population: "9000000"
+
+  - name: "Manchester"
+    country_code: "GB"
+    region_type: "city"
+    center_lat: 53.4808
+    center_lng: -2.2426
+    timezone: "Europe/London"
+    language: "en"
+    population: "550000"
+
+  - name: "Birmingham"
+    country_code: "GB"
+    region_type: "city"
+    center_lat: 52.4862
+    center_lng: -1.8904
+    timezone: "Europe/London"
+    language: "en"
+    population: "1140000"
+
+  # === MÉXICO ===
+  - name: "Ciudad de México"
+    country_code: "MX"
+    region_type: "city"
+    center_lat: 19.4326
+    center_lng: -99.1332
+    timezone: "America/Mexico_City"
+    language: "es"
+    population: "9200000"
+
+  - name: "Guadalajara"
+    country_code: "MX"
+    region_type: "city"
+    center_lat: 20.6597
+    center_lng: -103.3496
+    timezone: "America/Mexico_City"
+    language: "es"
+    population: "1500000"
+
+  - name: "Monterrey"
+    country_code: "MX"
+    region_type: "city"
+    center_lat: 25.6866
+    center_lng: -100.3161
+    timezone: "America/Monterrey"
+    language: "es"
+    population: "1100000"
+
+  # === COLOMBIA ===
+  - name: "Bogotá"
+    country_code: "CO"
+    region_type: "city"
+    center_lat: 4.7110
+    center_lng: -74.0721
+    timezone: "America/Bogota"
+    language: "es"
+    population: "7400000"
+
+  - name: "Medellín"
+    country_code: "CO"
+    region_type: "city"
+    center_lat: 6.2442
+    center_lng: -75.5812
+    timezone: "America/Bogota"
+    language: "es"
+    population: "2500000"
+
+  # === CHILE ===
+  - name: "Santiago"
+    country_code: "CL"
+    region_type: "city"
+    center_lat: -33.4489
+    center_lng: -70.6693
+    timezone: "America/Santiago"
+    language: "es"
+    population: "5600000"
