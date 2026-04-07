@@ -10,3 +10,4 @@
 - [España profundo](project_espana_profundo.md) — INE DIRCE 2025, TIC Q1 2025, funnel detallado, economía comercial, legal B2B, post-Kit Digital
 - [Reconciliación datos](project_reconciliacion_datos.md) — Discrepancias entre docs y conclusiones reconciliadas (ratios, LTV, pricing, comisiones)
 - [Commits sin marca de agua](feedback_commits.md) — Commits técnicos, sin Co-Authored-By ni referencias a IA
+- [Sincronizar memoria con espejo](feedback_mirror_sync.md) — Copiar siempre memoria/planes a .claude-mirror/ en el repo
