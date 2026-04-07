@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/raktu/.claude/projects/c--VenderWEB/**)",
+      "Read(//c/Users/raktu/.claude/plans/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\raktu\\.claude\\projects\\c--VenderWEB\\memory"
+    ]
+  }
+}
