@@ -20,13 +20,14 @@ def create_app() -> FastAPI:
         allow_headers=["*"],
     )
 
-    from app.api.routers import auth, campaigns, dashboard, exports, leads
+    from app.api.routers import auth, campaigns, dashboard, exports, leads, verticals
 
     application.include_router(auth.router, prefix="/api/auth", tags=["auth"])
     application.include_router(campaigns.router, prefix="/api/campaigns", tags=["campaigns"])
     application.include_router(leads.router, prefix="/api/leads", tags=["leads"])
     application.include_router(exports.router, prefix="/api/exports", tags=["exports"])
     application.include_router(dashboard.router, prefix="/api/dashboard", tags=["dashboard"])
+    application.include_router(verticals.router, prefix="/api/catalog", tags=["catalog"])
 
     @application.get("/health")
     async def health():
